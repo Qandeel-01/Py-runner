@@ -1,4 +1,4 @@
-# Qandeel & Qazi Runner
+# Py-runner
 
 A simple endless runner game built with Pygame.
 
